@@ -1,6 +1,6 @@
 # 🚀 Desafio Técnico - Cuidado Intuitivo
 
-**Candidato:** Renato Pinheiro
+**Candidato:** Renato Pinheiro Ferreira
 
 Este projeto consiste em um pipeline de dados completo para captura, tratamento, enriquecimento e análise estatística dos dados de demonstrações contábeis de operadoras de saúde, utilizando a base de dados abertos da ANS.
 
