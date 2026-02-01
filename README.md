@@ -1,5 +1,5 @@
 # Desafio Técnico - Intuitive Care
-**Candidato:** Renato [Seu Sobrenome]
+**Candidato:** Renato Pinheiro
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python 3.14**: Processamento e limpeza de dados.
